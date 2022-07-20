@@ -1,4 +1,3 @@
-/*------ font----- */
 .website-1{font-family: 'Poppins', sans-serif;
 margin: 0%;}
 /* -------font----- */
@@ -82,28 +81,6 @@ margin: 0%;}
     font-weight: 700;
     color: #FFFFFF;
 }
-.link-1{
-    background-color: red;
-    width: 150px;
-    display: grid;
-    margin-left: 40px;
-    margin-top: 25px;
-    height: 50px;
-    border-radius: 5px;
-    padding-top: 10px;
-    font-weight: 700;
-}
-.link-2{
-    background-color: white;
-    width: 150px;
-    display: grid;
-    margin-left: 40px;
-    margin-top: 25px;
-    height: 50px;
-    border-radius: 5px;
-    padding-top: 10px;
-    font-weight: 700;
-}
 /* ------upcoming match--------- */
 /* --------main------------ */
 .container{
@@ -115,44 +92,12 @@ margin: 0%;}
     width: 312px;
     margin-top: 130px;
     column-gap: 30px;
-    row-gap: 0px;
-}
-.blogs-match{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    width: 312px;
-    margin-top: 130px;
-    column-gap: 30px;
-
-}
-.fa-clock{
-    color: #161616;
-}
-.fa-comment-dots{
-    color: #161616;
 }
 .blog-1{
     width: 270px;
     height: 400px;
     margin-left: 20px;
-}
-.blog-2{
-    width: 270px;
-    height: 200px;
-    margin-left: 40px;
-    margin-top: 10px;
-    padding-top: 25px;
-    background-color: whitesmoke;
-    box-shadow: 
-    width: 250px;
-    height: 155px;
-    box-shadow: 50px;
-    display: grid;
-    justify-content: center;
-}
-.ger-fra{
-    margin-left: 32px;
-    margin-top: 7px;
+    
 }
 .transfer{
     margin-top: 25px;
@@ -213,4 +158,3 @@ margin: 0%;}
     .fa-instagram{
         color: #FFFFFF;
     }
-    /* ----------main-------- */
